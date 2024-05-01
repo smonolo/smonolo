@@ -7,5 +7,5 @@ I use GitLab for work so you won't see much going on here for now, but I always 
 Want to know more?
 
 - Visit [my website](https://smnl.dev)
-- Follow me on [Twitter](https://x.com/stmonolo)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/stemon/)
+- Follow on [Twitter](https://x.com/stmonolo)
+- Connect on [LinkedIn](https://www.linkedin.com/in/stemon/)
