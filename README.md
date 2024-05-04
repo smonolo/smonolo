@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer passionate about the web and its technologies, currently building the future of corporate events at [Kampaay](https://www.kampaay.com).
+I'm a frontend software engineer passionate about the web and its technologies, currently building the future of corporate events at [Kampaay](https://www.kampaay.com).
 
 I use GitLab for work so you won't see much going on here for now, but I always use GitHub for personal and side projects.
 
