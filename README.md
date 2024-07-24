@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm a frontend engineer passionate about the web and its technologies, currently building the future of corporate events at [Kampaay](https://www.kampaay.com).
+I'm a frontend engineer passionate about the web and its technologies.
 
-I use GitLab for work so you won't see much going on here for now, but I always use GitHub for personal and side projects.
+My go-to stack is TypeScript, React and Tailwind CSS, but I also work on several products based on Vue and Nuxt. I enjoy working on full stack projects as well, especially when it comes to setting up infrastructure and networks using AWS, Cloudflare, Docker and self-hosted solutions like Linux based VMs with Caddy or nginx.
 
 Want to know more?
 
 - Visit [my website](https://smnl.dev)
 - Follow on [Twitter](https://x.com/stmonolo)
 - Connect on [LinkedIn](https://www.linkedin.com/in/stemon/)
+- Reach out at [stefano@smnl.dev](mailto:stefano@smnl.dev)
