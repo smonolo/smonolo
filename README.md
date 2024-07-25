@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a frontend engineer passionate about the web and its technologies.
+I'm a software engineer passionate about the web and its technologies.
 
-My go-to stack is TypeScript, React and Tailwind CSS, but I also work on several products based on Vue and Nuxt. I enjoy working on full stack projects as well, especially when it comes to setting up infrastructure and networks using AWS, Cloudflare, Docker and self-hosted solutions like Linux based VMs with Caddy or nginx.
+My primary technical stack is TypeScript, React and Tailwind CSS, but I also work on various products using Vue and Nuxt. I'm also passionate about full stack development, especially when it comes to setting up infrastructure and networks using AWS, Cloudflare, Docker, and self-hosted solutions like Linux-based VMs with Caddy or nginx.
 
-Want to know more?
+### Want to know more?
 
 - Visit [my website](https://smnl.dev)
 - Follow on [Twitter](https://x.com/stmonolo)
