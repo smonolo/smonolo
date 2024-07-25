@@ -7,6 +7,6 @@ My primary technical stack is TypeScript, React and Tailwind CSS, but I work on 
 ### Want to know more?
 
 - Visit [my website](https://smnl.dev)
-- Follow on [Twitter](https://x.com/stmonolo)
+- Follow on [X](https://x.com/stmonolo)
 - Connect on [LinkedIn](https://www.linkedin.com/in/stemon/)
 - Reach out at [stefano@smnl.dev](mailto:stefano@smnl.dev)
