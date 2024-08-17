@@ -7,7 +7,7 @@ My primary tech stack is TypeScript, React and Tailwind CSS, but I work on vario
 ### Want to know more?
 
 - Visit [my website](https://smnl.dev)
-- Look at my [resume](https://resume.smnl.dev)
+- Look at [my resume](https://resume.smnl.dev)
 - Follow on [X](https://x.com/stmonolo)
 - Connect on [LinkedIn](https://www.linkedin.com/in/stemon/)
 - Reach out at [stefano@smnl.dev](mailto:stefano@smnl.dev)
