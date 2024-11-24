@@ -12,4 +12,4 @@ My primary tech stack is TypeScript, React and Tailwind CSS, but I work on vario
 - Connect on [LinkedIn](https://www.linkedin.com/in/stemon/)
 - Reach out at [stefano@smnl.dev](mailto:stefano@smnl.dev)
 - Message on [Discord](https://discord.com/users/191598787410526208)
-- Book a [WeRoad](https://www.weroad.com)!
+- Book a [WeRoad](https://www.weroad.com)
